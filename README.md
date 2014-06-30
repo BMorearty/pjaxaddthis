@@ -24,15 +24,10 @@ is a pjax request.
 Addthis problems
 ----------------
 
-1. When you first go to 1.html, the counter shows a value. When you
-   navigate to Product 2 and then navigate to Product 1 again, it shows
-   a different value--even though the title and URL are the same as they
-   were the first time.
-
-2. If you go to 1.html, then click on Product 2, then hit the Back
+1. If you go to 1.html, then click on Product 2, then hit the Back
    button, the counter text seems to be doubled up.
 
-3. Sometimes, after navigation, the icons change to the wrong social media sites.
+2. Sometimes, after navigation, the icons change to the wrong social media sites.
 
     Right: ![Before navigation](right.png)
 
